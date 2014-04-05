@@ -21,3 +21,10 @@
 *.i*86
 *.x86_64
 *.hex
+
+lexer.c
+lexer.h
+yacc.c
+yacc.h
+*.txt
+parser
